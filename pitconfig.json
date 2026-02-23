@@ -117,8 +117,8 @@
           }
         },
         {
-            "title": "Hopper Size",
-            "description": "How big is their hopper?",
+            "title": "Hopper Ball Capacity",
+            "description": "How many balls can their hopper hold?",
             "type": "range",
             "required": false,
             "code": "hopperSize",
@@ -159,7 +159,55 @@
               "Both": "Can cross bump and go under the trench",
               "N": "Neither"
             }
-          },        
+          },
+          {
+            "title": "What type of drivetrain do they have?",
+            "description": "Drivetrain type",
+            "type": "select",
+            "required": false,
+            "code": "drivetrain",
+            "formResetBehavior": "reset",
+            "defaultValue": "S",
+            "choices": {
+              "S": "Swerve",
+              "TD": "Tank Drive",
+              "M": "Mechanum"
+            }
+          },
+          { 
+            "title": "If they have swerve what type?",
+            "description": "Swerve type",
+            "type": "select",
+            "required": false,
+            "code": "swerve",
+            "formResetBehavior": "reset",
+            "defaultValue": "M4",
+            "choices": {
+              "M4i": "mk4i",
+              "M4": "mk4",
+              "M4n": "mk4n",
+              "MS3": "MaxSwerve 3in",
+              "MS4": "MaxSwerve 4in",
+              "NS": "Not running swerve"
+            }
+          },
+          { 
+            "title": "What kind of intake do they have?",
+            "description": "Intake type",
+            "type": "select",
+            "required": false,
+            "code": "intake",
+            "formResetBehavior": "reset",
+            "defaultValue": "otb",
+            "choices": {
+              "otb": "Over the bumper intake",
+              "ttb": "Through the bumper intake",
+              "no": "No ground intake",
+              "4b": "4-bar intake",
+              "6b": "6-bar intake",
+              "O": "Other"
+            }
+          },                
           {
             "title": "Comments",
             "type": "text",
