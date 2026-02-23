@@ -219,6 +219,21 @@
             "max": 100
           }
       ]
-    }
+    },
+    {
+        "name": "Shrek",
+        "fields": [
+            {
+                "title": "Shrek Movie",
+                "description": "Shrek",
+                "type": "image",
+                "required": false,
+                "code": "shrek",
+                "formResetBehavior": "preserve",
+                "defaultValue": "https://github.com/dy0gu/dy0gu/blob/main/shrek.gif?raw=true",
+                "alt": "Shrek movie"
+            }
+        ]
+      }
   ]
 }
