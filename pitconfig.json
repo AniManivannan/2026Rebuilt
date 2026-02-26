@@ -114,7 +114,7 @@
             "L1": "L1",
             "L2": "L2",
             "L3": "L3",
-            "No": "No Climb"
+            "No Climb": "No Climb"
           }
         },
         {
@@ -138,12 +138,12 @@
             "formResetBehavior": "reset",
             "defaultValue": "NS",
             "choices": {
-              "T": "Turret",
-              "DS": "Double Stationary Shooter",
-              "TT": "Double Turret",
-              "TTT": "Triple Shooter",
-              "FW": "Full Wide Shooter",
-              "NS": "No Shooter"
+              "Turret": "Turret",
+              "Double Stationary Shooter": "Double Stationary Shooter",
+              "Double Turret": "Double Turret",
+              "Triple Shooter": "Triple Shooter",
+              "Full Wide Shooter": "Full Wide Shooter",
+              "No Shooter": "No Shooter"
             }
           },        
           {
