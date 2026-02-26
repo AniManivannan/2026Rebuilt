@@ -83,14 +83,13 @@
             "formResetBehavior": "reset",
             "defaultValue": 1
           },
-          {
-            "title": "Team and Robot",
-            "description": "Select the team and robot position you are scouting.",
-            "type": "number",
-            "required": true,
-            "code": "robot",
-            "formResetBehavior": "reset",
-            "defaultValue": 0
+          "title": "Team and Robot",
+          "description": "Select the team and robot position you are scouting.",
+          "type": "number",
+          "required": true,
+          "code": "robot",
+          "formResetBehavior": "reset",
+          "defaultValue": 1
           },
           {
             "title": "Starting Position",
