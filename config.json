@@ -3,6 +3,7 @@
   "page_title": "Rebuilt",
   "delimiter": "\t",
   "teamNumber": 8726,
+  "year": 2026,
   "floatingField": {
     "show": false,
     "codeValue": "teamNumber"
