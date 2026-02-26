@@ -155,10 +155,10 @@
             "formResetBehavior": "reset",
             "defaultValue": "B",
             "choices": {
-              "B": "Can cross bump",
-              "UT": "Can go under the trench",
-              "Both": "Can cross bump and go under the trench",
-              "N": "Neither"
+              "Bump": "Can cross bump",
+              "Trench": "Can go under the trench",
+              "Bump and Trench": "Can cross bump and go under the trench",
+              "Neither": "Neither"
             }
           },
           {
@@ -170,9 +170,9 @@
             "formResetBehavior": "reset",
             "defaultValue": "S",
             "choices": {
-              "S": "Swerve",
-              "TD": "Tank Drive",
-              "M": "Mechanum"
+              "Swerve": "Swerve",
+              "Tank Drive": "Tank Drive",
+              "Mechanum": "Mechanum"
             }
           },
           { 
@@ -213,9 +213,9 @@
             "choices": {
               "otb": "Over the bumper intake",
               "ttb": "Through the bumper intake",
-              "no": "No ground intake",
-              "4b": "4-bar intake",
-              "6b": "6-bar intake",
+              "outpost": "No ground intake",
+              "4 bar": "4-bar intake",
+              "6 bar": "6-bar intake",
               "O": "Other"
             }
           },                
