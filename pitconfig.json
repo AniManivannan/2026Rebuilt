@@ -78,7 +78,7 @@
         {
           "title": "Team and Robot",
           "description": "Select the team and robot position you are scouting.",
-          "type": "TBA-team-and-robot",
+          "type": "number",
           "required": true,
           "code": "robot",
           "formResetBehavior": "preserve",
