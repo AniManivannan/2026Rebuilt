@@ -81,7 +81,7 @@
           "type": "number",
           "required": true,
           "code": "robot",
-          "formResetBehavior": "preserve",
+          "formResetBehavior": "reset",
           "defaultValue": null
         }
       ]
