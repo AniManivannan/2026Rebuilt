@@ -77,19 +77,19 @@
           {
             "title": "Match Number",
             "description": "Select the match number.",
-            "type": "TBA-match-number",
+            "type": "number",
             "required": true,
             "code": "matchNumber",
-            "formResetBehavior": "increment",
+            "formResetBehavior": "reset",
             "defaultValue": 1
           },
           {
             "title": "Team and Robot",
             "description": "Select the team and robot position you are scouting.",
-            "type": "TBA-team-and-robot",
+            "type": "number",
             "required": true,
             "code": "robot",
-            "formResetBehavior": "preserve",
+            "formResetBehavior": "reset",
             "defaultValue": null
           },
           {
