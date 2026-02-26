@@ -187,6 +187,8 @@
               "M4i": "mk4i",
               "M4": "mk4",
               "M4n": "mk4n",
+              "M5n" : "mk5n",
+              "m5i": "mk5i",
               "MS3": "MaxSwerve 3in",
               "MS4": "MaxSwerve 4in",
               "WCPX": "WCP Swerve X",
