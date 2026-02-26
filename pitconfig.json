@@ -82,7 +82,7 @@
           "required": true,
           "code": "robot",
           "formResetBehavior": "reset",
-          "defaultValue": null
+          "defaultValue": 1
         }
       ]
     },
