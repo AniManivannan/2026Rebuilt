@@ -196,7 +196,7 @@
               "WCPX2": "WCP Swerve X2",
               "WCPX2S": "WCP Swerve X2S",
               "WCPX2i": "WCP Swerve X2i",
-              "TBS": : "ThirftyBot Swerve",
+              "ThBS": : "ThirftyBot Swerve",
               "NS": "Not running swerve"
             }
           },
