@@ -189,6 +189,10 @@
               "M4n": "mk4n",
               "MS3": "MaxSwerve 3in",
               "MS4": "MaxSwerve 4in",
+              "WCPX": "WCP Swerve X",
+              "WCPXS": "WCP Swerve XS",
+              "WCPX2": "WCP Swerve X2",
+              "WCPX2S": "WCP Swerve X2S",
               "NS": "Not running swerve"
             }
           },
