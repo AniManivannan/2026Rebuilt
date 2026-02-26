@@ -193,6 +193,7 @@
               "WCPXS": "WCP Swerve XS",
               "WCPX2": "WCP Swerve X2",
               "WCPX2S": "WCP Swerve X2S",
+              "WCPX2i": "WCP Swerve X2i",
               "NS": "Not running swerve"
             }
           },
