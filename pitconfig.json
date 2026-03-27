@@ -143,7 +143,9 @@
               "Double Turret": "Double Turret",
               "Triple Shooter": "Triple Shooter",
               "Full Wide Shooter": "Full Wide Shooter",
-              "No Shooter": "No Shooter"
+              "No Shooter": "No Shooter",
+              "Single Stationary Shooter": "Single Stationary Shooter",
+              "Kitbot": "Kitbot"
             }
           },        
           {
