@@ -1,3 +1,4 @@
+
 {
   "title": "QRScout",
   "page_title": "Pit Scouting",
@@ -161,6 +162,20 @@
               "Trench": "Can go under the trench",
               "Bump and Trench": "Can cross bump and go under the trench",
               "Neither": "Neither"
+            }
+          },
+          {
+            "title": "Neutral Zone auto?",
+            "description": "Does this team have an auto that goes into the neutral zone?",
+            "type": "select",
+            "required": false,
+            "code": "passedHow",
+            "formResetBehavior": "reset",
+            "defaultValue": "blank",
+            "choices": {
+              "blank": "(blank)",
+              "Yes": "Yes",
+              "No": "No"
             }
           },
           {
