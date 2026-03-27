@@ -135,6 +135,20 @@
           "defaultValue": "",
           "min": 0,
           "max": 300
+        },
+        {
+          "title": "Neutral Zone auto?",
+          "description": "Does this team have an auto that goes into the neutral zone?",
+          "type": "select",
+          "required": false,
+          "code": "passedHow",
+          "formResetBehavior": "reset",
+          "defaultValue": "blank",
+          "choices": {
+            "blank": "(blank)",
+            "Yes": "Yes",
+            "No": "No"
+          }
         }
       ]
     },
