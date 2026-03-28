@@ -141,7 +141,7 @@
           "description": "Does this team have an auto that goes into the neutral zone?",
           "type": "select",
           "required": false,
-          "code": "passedHow",
+          "code": "NZoneAuto",
           "formResetBehavior": "reset",
           "defaultValue": "blank",
           "choices": {
@@ -214,7 +214,8 @@
             "driving": "While driving",
             "stationary": "While stationary",
             "both": "Both",
-            "none": "No Passing"
+            "none": "No Passing",
+            "pushbot": "Pushing"
           }
         },
         {
